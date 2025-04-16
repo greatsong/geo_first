@@ -3,3 +3,4 @@ matplotlib
 requests 
 koreanize-matplotlib
 folium
+streamlit_folium
