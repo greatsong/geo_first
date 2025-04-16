@@ -1,0 +1,4 @@
+geopandas
+matplotlib 
+requests 
+koreanize-matplotlib
