@@ -2,3 +2,4 @@ geopandas
 matplotlib 
 requests 
 koreanize-matplotlib
+folium
